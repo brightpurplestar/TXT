@@ -1,4 +1,4 @@
 Favorite movie: The Shawshank Redemption,
 Favorite series: Ki Hwanghu/Empress Ki,
 Favorite food: Lazagna,
-Favorite season: Summer
+Favorite season: Summer.
