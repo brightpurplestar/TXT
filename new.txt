@@ -1,0 +1,4 @@
+Name: Cherkasova Polina,
+Age: 25,
+Pets: Spider Grigory,
+Salary: 1000000$
