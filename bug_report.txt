@@ -1,1 +1,14 @@
+    Severity: Minor,
+    Bug ID: 1,
 
+Title: The Support menu is closed after clicking on [Viber] icon in Support menu.
+    Steps to reproduse:
+Precindition: Viber desktop app is not installed.
+1: Navigate to capital.com.
+2: Click button [Support].
+3: Click [Viber] icon.
+
+Actual result: The Support menu is closed.
+Expected Result: The website Viber is opened to go to chat Capital.com.
+Attacments: link
+Nickname QA: @BrightPirpleStar
